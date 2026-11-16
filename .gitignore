@@ -1,0 +1,18 @@
+# Compilación de .NET
+bin/
+obj/
+artifacts/
+*.user
+*.suo
+
+# Proyectos y soluciones (aquí solo se suben ficheros Program.cs)
+*.csproj
+*.sln
+*.slnx
+
+# Editores y sistema
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
