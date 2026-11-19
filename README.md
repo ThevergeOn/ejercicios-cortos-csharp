@@ -6,18 +6,20 @@ Cada ejercicio tiene su carpeta con el enunciado y una carpeta `soluciones/` don
 
 ## Temas
 
-| Tema | Ejercicios |
-| --- | --- |
-| [01 · Condicionales](01-condicionales/README.md) | 24 |
-| [02 · Bucles: dibujos y animaciones](02-bucles/README.md) | 41 |
-| [03 · Programación estructurada](03-programacion-estructurada/README.md) | 14 |
-| [04 · Arrays](04-arrays/README.md) | 26 |
+
+| Tema | Ejercicios | Todos los enunciados en un .cs |
+| --- | --- | --- |
+| [01 · Condicionales](01-condicionales/README.md) | 24 | [EjerciciosCondicionales.cs](01-condicionales/EjerciciosCondicionales.cs) |
+| [02 · Bucles: dibujos y animaciones](02-bucles/README.md) | 41 | [EjerciciosBucles.cs](02-bucles/EjerciciosBucles.cs) |
+| [03 · Programación estructurada](03-programacion-estructurada/README.md) | 14 | [EjerciciosProgramacionEstructurada.cs](03-programacion-estructurada/EjerciciosProgramacionEstructurada.cs) |
+| [04 · Arrays](04-arrays/README.md) | 26 | [EjerciciosArrays.cs](04-arrays/EjerciciosArrays.cs) |
 
 ## Estructura
 
 ```text
 01-condicionales/
 ├── README.md                     ← índice del tema
+├── EjerciciosCondicionales.cs    ← todos los enunciados del tema, como comentarios
 └── ej01/
     ├── enunciado.md              ← qué pide el ejercicio
     └── soluciones/
